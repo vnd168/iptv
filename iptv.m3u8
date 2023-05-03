@@ -27,6 +27,10 @@ https://live-zlr1.tv360.vn/manifest/Su_Kien_4/playlist_1080p.m3u8
 #EXTVLCOPT:http-user-agent="KIIP"
 https://vips-livecdn.fptplay.net/hda1/vtv1hd_vhls.smil/playlist.m3u8
 #https://nvzoftzsvflivcf.vcdn.com.vn/vtv1/index.m3u8
+#EXTINF:0 tvg-id="vtv1hd" group-title="VTV - KIPTV" tvg-logo="http://gg.gg/vtv1logokiptv" tvg-chno="1" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv1hd_1000.stream/chunks_dvr_range-${start}-10800.m3u8",VTV1 HD
+#EXTVLCOPT:http-user-agent="KIIP"
+https://vips-livecdn.fptplay.net/hda1/vtv1hd_vhls.smil/playlist.m3u8
+#https://nvzoftzsvflivcf.vcdn.com.vn/vtv1/index.m3u8
 #EXTINF:0 tvg-id="vtv2hd" group-title="VTV - KIPTV" tvg-logo="http://gg.gg/vtv2logokiptv" tvg-chno="2" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv2_2000.stream/chunks_dvr_range-${start}-10800.m3u8",VTV2 HD
 #EXTVLCOPT:http-user-agent="KIIP"
 https://livecdn.fptplay.net/hda1/vtv2_vhls.smil/chunklist_b5000000.m3u8
