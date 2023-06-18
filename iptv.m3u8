@@ -23,41 +23,40 @@ https://live-zlr1.tv360.vn/manifest/Su_Kien_4/playlist_1080p.m3u8
 
 
 #--*.*--VTV--*.*--# 
-#EXTINF:0 tvg-id="vtv1hd" group-title="VTV - KIPTV" tvg-logo="http://gg.gg/vtv1logokiptv" tvg-chno="1" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv1hd_1000.stream/chunks_dvr_range-${start}-10800.m3u8",VTV1 HD
+#EXTINF:0 type="stream" group-title="1️⃣ VTV" tvg-id="vtv1hd" tvg-logo="https://i.ibb.co/y8s34Vs/ccvtv1.webp",VTV1
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/coocaaTV #EXTVLCOPT:http-referer=https://sctvonline.vn/
 http://live.tv360.vn/manifest/VTV1_HD/playlist_1080p.m3u8
-#https://nvzoftzsvflivcf.vcdn.com.vn/vtv1/index.m3u8
-#EXTINF:0 tvg-id="vtv2hd" group-title="VTV - KIPTV" tvg-logo="http://gg.gg/vtv2logokiptv" tvg-chno="2" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv2_2000.stream/chunks_dvr_range-${start}-10800.m3u8",VTV2 HD
-http://live-ali2.tv360.vn/manifest/vtv2/playlist_VTV2-1080-3_6M.m3u8
-#https://nvzoftzsvflivcf.vcdn.com.vn/vtv2/index.m3u8
-#EXTINF:0 tvg-id="vtv3hd" group-title="VTV - KIPTV" tvg-logo="http://gg.gg/vtv3logokiptv" tvg-chno="3" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv3hd_1500.stream/chunks_dvr_range-${start}-10800.m3u8",VTV3 HD
-#EXTVLCOPT:http-user-agent="KIIP"
-https://livecdn.fptplay.net/hda1/vtv3hd_vhls.smil/chunklist_b5000000.m3u8
-#https://nvzoftzsvflivcf.vcdn.com.vn/vtv3/index.m3u8
-#EXTINF:0 tvg-id="vtv3hd" group-title="VTV - KIPTV" tvg-logo="http://gg.gg/vtv3logokiptv" tvg-chno="3" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv3hd_1500.stream/chunks_dvr_range-${start}-10800.m3u8",VTV3 HD
-http://live-ali4.tv360.vn/manifest/VTV3/playlist_720p.m3u8
-#EXTINF:0 tvg-id="vtv4hd" group-title="VTV - KIPTV" tvg-logo="https://i.ibb.co/gdPTLB0/vtv4.png" tvg-chno="4" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv4_2000.stream/chunks_dvr_range-${start}-10800.m3u8",VTV4 HD
+#EXTINF:0 type="stream" group-title="1️⃣ VTV" tvg-id="vtv2hd" tvg-logo="https://i.ibb.co/ZHCQSWY/ccvtv2.webp",VTV2
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/coocaaTV #EXTVLCOPT:http-referer=https://sctvonline.vn/
+https://k4dzr60ab.vtvgiaitri.vn/vtv02/vtv02@1080p.m3u8
+#http://live.tv360.vn/manifest/vtv2/playlist_VTV2-1080-3_6M.m3u8
+#EXTINF:0 type="stream" group-title="1️⃣ VTV" tvg-id="vtv3hd" tvg-logo="https://i.ibb.co/Y2WSTkx/ccvtv3.webp",VTV3
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/coocaaTV #EXTVLCOPT:http-referer=https://sctvonline.vn/
+http://live.tv360.vn/manifest/VTV3/playlist_1080p-5M.m3u8
+#EXTINF:0 type="stream" group-title="1️⃣ VTV" tvg-id="vtv4hd" tvg-logo="https://i.ibb.co/NSSfgj5/ccvtv4.webp",VTV4
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/coocaaTV #EXTVLCOPT:http-referer=https://sctvonline.vn/
 https://k4dzr60ab.vtvgiaitri.vn/vtv04/vtv04@1080p.m3u8
-#EXTINF:0 tvg-id="vtv5hd" group-title="VTV - KIPTV" tvg-logo="https://i.ibb.co/njbWnFT/vtv5-tay-nguyen.png",VTV5 HD 
-http://live-ali4.tv360.vn/manifest/VTV5_HD_50fps/playlist_VTV5-HD-50fps-1080P-65M.m3u8
-#EXTINF:0 tvg-id="vtv6hd"group-title="VTV - KIPTV" tvg-logo="https://i.ibb.co/zmKpWCv/vtv-can-tho-16650500344341813094040-removebg-preview.png",VTV Cần Thơ 
-https://hqth.me/vtv6360
-#EXTINF:0 tvg-id="vtv7hd" group-title="VTV - KIPTV" tvg-logo="https://i.ibb.co/J7FX52M/vtv7.png"  tvg-chno="7" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv7hd_1500.stream/chunks_dvr_range-${start}-10800.m3u8,VTV7 HD
-#EXTVLCOPT:http-user-agent="KIIP"
+#EXTINF:0 type="stream" group-title="1️⃣ VTV" tvg-id="vtv5hd" tvg-logo="https://i.ibb.co/LNZzdWQ/ccvtv5.webp",VTV5
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/coocaaTV #EXTVLCOPT:http-referer=https://sctvonline.vn/
+http://live.tv360.vn/manifest/VTV5_HD_50fps/playlist_VTV5-HD-50fps-1080P-65M.m3u8
+#EXTINF:0 type="stream" group-title="1️⃣ VTV" tvg-id="vtv5hdtn" tvg-logo="https://i.ibb.co/SffsRYs/ccvtv5tn.webp",VTV5 •TN
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/coocaaTV #EXTVLCOPT:http-referer=https://sctvonline.vn/
+https://dl.dropboxusercontent.com/s/x8952mvr7r6l15v/     					    ㅤ     
+#EXTINF:0 type="stream" group-title="1️⃣ VTV" tvg-id="vtv5hdtnb" tvg-logo="https://i.ibb.co/hMcVcJK/ccvtv5tnb.webp",VTV5 •TNB
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/coocaaTV #EXTVLCOPT:http-referer=https://sctvonline.vn/
+https://dl.dropboxusercontent.com/s/ztuh55x09yybw40/     					    ㅤ     
+#EXTINF:0 type="stream" group-title="1️⃣ VTV" tvg-id="vtv6hd" tvg-logo="https://i.ibb.co/hgBXGTZ/ccvtv6.webp",VTV6 •CT
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/coocaaTV #EXTVLCOPT:http-referer=https://sctvonline.vn/
+http://live.tv360.vn/manifest/VTV6_HD/playlist_1080p.m3u8
+#EXTINF:0 type="stream" group-title="1️⃣ VTV" tvg-id="vtv7hd" tvg-logo="https://i.ibb.co/JjwwJCk/ccvtv7.webp",VTV7
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/coocaaTV #EXTVLCOPT:http-referer=https://sctvonline.vn/
 https://k4dzr60ab.vtvgiaitri.vn/vtv07/vtv07@1080p.m3u8
-#https://nvzoftzsvflivcf.vcdn.com.vn/vtv7/index.m3u8
-#EXTINF:0 tvg-id="vtv8hd" group-title="VTV - KIPTV" tvg-logo="https://i.ibb.co/vsQPSYQ/vtv8.png" tvg-chno="8" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv8hd_1500.stream/chunks_dvr_range-${start}-10800.m3u8",VTV8 HD
-#EXTVLCOPT:http-user-agent="KIIP"
+#EXTINF:0 type="stream" group-title="1️⃣ VTV" tvg-id="vtv8hd" tvg-logo="https://i.ibb.co/6JzZNqz/ccvtv8.webp",VTV8
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/coocaaTV #EXTVLCOPT:http-referer=https://sctvonline.vn/
 https://k4dzr60ab.vtvgiaitri.vn/vtv08/vtv08@1080p.m3u8
-#https://nvzoftzsvflivcf.vcdn.com.vn/vtv8/index.m3u8
-#EXTINF:0 tvg-id="vtv9hd" group-title="VTV - KIPTV" tvg-logo="https://i.ibb.co/SV2FccD/vtv9.png" tvg-chno="9" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv9_1500.stream/chunks_dvr_range-${start}-10800.m3u8",VTV9 HD
-#EXTVLCOPT:http-user-agent="KIIP"
+#EXTINF:0 type="stream" group-title="1️⃣ VTV" tvg-id="vtv9hd" tvg-logo="https://i.ibb.co/FHFdRNC/ccvtv9.webp",VTV9
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/coocaaTV #EXTVLCOPT:http-referer=https://sctvonline.vn/
 https://k4dzr60ab.vtvgiaitri.vn/vtv09/vtv09@1080p.m3u8
-#https://nvzoftzsvflivcf.vcdn.com.vn/vtv9/index.m3u8
-#EXTINF:0 tvg-id="vtv5hdtnb"group-title="VTV - KIPTV" tvg-logo="https://i.ibb.co/1RxT5jp/VTV5-TNB.png",VTV5 Tây Nam Bộ
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.57
-https://tiemnhazunn.click/cliptv/cliptv.php?id=vtv5-tay-nam-bo
-#EXTINF:-1 tvg-id="vtv5hdtn" group-title="VTV - KIPTV" tvg-logo="https://i.ibb.co/9nXs3CK/VTV5-tay-nguyen.png" ,VTV5 Tây Nguyên
-https://code.vthanhtivi.pw/getlink/tv360/207/2.m3u8
 
 
 
